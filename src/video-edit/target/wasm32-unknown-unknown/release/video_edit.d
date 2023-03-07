@@ -1,0 +1,1 @@
+/Users/burak/Desktop/Learning\ Rust/wasm-video-editor/src/video-edit/target/wasm32-unknown-unknown/release/video_edit.wasm: /Users/burak/Desktop/Learning\ Rust/wasm-video-editor/src/video-edit/src/lib.rs
