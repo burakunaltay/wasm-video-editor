@@ -1,0 +1,12 @@
+{
+  "name": "video-edit",
+  "version": "0.1.0",
+  "files": [
+    "video_edit_bg.wasm",
+    "video_edit.js",
+    "video_edit.d.ts"
+  ],
+  "module": "video_edit.js",
+  "types": "video_edit.d.ts",
+  "sideEffects": false
+}
